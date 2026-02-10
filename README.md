@@ -1,5 +1,4 @@
-# Viktor_Depot
-This is my first second repository
-I am looking backwards to learn more
-New comment Gurli grissebasse
-Nej nej nej
+Jeg hedder Gurli Gris
+Jeg er en skildpadde
+Jeg er 4 år og 7 måneder
+Jeg bor på Nordpolen
