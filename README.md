@@ -1,4 +1,4 @@
 Jeg hedder Gurli Gris
 Jeg er en skildpadde
 Jeg er 4 år og 7 måneder
-Jeg bor på Nordpolen
+Jeg lever på Nordpolen
